@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Live Web Application](https://img.shields.io/badge/Live_App-Streamlit_Cloud-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://vehicle-damage-detector-ai.streamlit.app/)
+[![Live Web Application](https://img.shields.io/badge/Live_App-Streamlit_Cloud-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://vehicle-damage-detection-microservice.streamlit.app/)
 [![API Backend](https://img.shields.io/badge/API_Backend-Hugging_Face_Spaces-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](#)
 [![Python](https://img.shields.io/badge/Python-3.10-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.2-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](#)
